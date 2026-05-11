@@ -32,7 +32,7 @@ We narrowed it down to the top 4 heavy hitters for a deep dive. Over 7 days, we 
 To keep things fair, we scored each tool on:
 
 ### 1. Realism: Facial expressions and natural body micro-movements
-
+<video src="https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/video1.mp4" width="100%" controls></video>
 [Watch the realism demo video](./public/videos/video1.mp4)
 
 ### 2. Versatility: Support for anime, oil paintings, and animal characters
