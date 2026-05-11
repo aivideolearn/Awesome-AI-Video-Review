@@ -32,6 +32,13 @@ Every review within this repository is conducted using our four-pillar framework
 
 ---
 
+## 📝 Deep-Dive Reviews
+*Technical reports and comparative audits:*
+
+*   [**2026 Best Talking Photo AI Tools Review**](./2026-best-talking-photo-ai-tools-review.md): A comprehensive technical audit of lip-sync precision, facial expression consistency, and rendering latency across leading portrait animation models.
+
+---
+
 ## 📂 Repository Structure
 This project is organized into modular sections for ease of navigation:
 
