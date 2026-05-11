@@ -33,6 +33,7 @@ To keep things fair, we scored each tool on:
 
 ### 1. Realism: Facial expressions and natural body micro-movements
 [https://github.com/user-attachments/assets/5024c9b4-1ea3-4f2a-b54d-4fef0b5f6cb2]
+https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/video1.mp4
 <video src="https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/video1.mp4" width="100%" controls></video>
 [Watch the realism demo video](./public/videos/video1.mp4)
 
