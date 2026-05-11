@@ -41,7 +41,7 @@ https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/v
 
 ### 2. Versatility: Support for anime, oil paintings, and animal characters
 
-[Watch the animal and anime character demo video 1](./public/videos/video2.mp4)
+![Watch the animal and anime character demo video 2](./public/videos/video2.gif)
 ![Watch the animal and anime character demo video 2](./public/videos/video3.gif)
 
 ### 3. Camera Motion: Support for cinematic pans, zooms, and tilts
