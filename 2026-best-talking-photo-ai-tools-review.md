@@ -32,12 +32,7 @@ We narrowed it down to the top 4 heavy hitters for a deep dive. Over 7 days, we 
 To keep things fair, we scored each tool on:
 
 ### 1. Realism: Facial expressions and natural body micro-movements
-[https://github.com/user-attachments/assets/5024c9b4-1ea3-4f2a-b54d-4fef0b5f6cb2]
-(https://github.com/user-attachments/assets/5024c9b4-1ea3-4f2a-b54d-4fef0b5f6cb2)
-https://github.com/user-attachments/assets/5024c9b4-1ea3-4f2a-b54d-4fef0b5f6cb2
-https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/video1.mp4
-<video src="https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/video1.mp4" width="100%" controls></video>
-[Watch the realism demo video](./public/videos/video1.mp4)
+![Watch the realism demo video](./public/videos/video1.gif)
 
 ### 2. Versatility: Support for anime, oil paintings, and animal characters
 
@@ -48,11 +43,11 @@ https://github.com/aivideolearn/Awesome-AI-Video-Review/raw/main/public/videos/v
 
 ### 4. Prompt Controllability: Precision in controlling specific actions via text
 
-[Watch the camera motion and prompt controllability demo video](./public/videos/video5.mp4)
+![Watch the camera motion and prompt controllability demo video](./public/videos/video5.gif)
 
 ### 5. Multi-Subject Support: Handling dialogues and interactions between two or more people
 
-[Watch the multi-subject AI talking photo demo video](./public/videos/video6.mp4)
+![Watch the multi-subject AI talking photo demo video](./public/videos/video6.gif)
 
 ### 6. Pricing/Value: Cost per second and flexibility of the payment model
 
