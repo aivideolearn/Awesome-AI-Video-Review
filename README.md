@@ -62,3 +62,7 @@ We welcome contributions from the community:
 ## ⚖️ License & Disclaimer
 This project is licensed under the [MIT License](LICENSE). 
 *Disclaimer: AI models evolve rapidly. All evaluations are snapshots of specific versions at the time of testing. Results may vary as models are updated.*
+
+## AI Meme / Image-to-Video Tools
+
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
